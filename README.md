@@ -1,7 +1,7 @@
 
 <!-- Edit README.md, not index.md -->
 
-# Aider is AI pair pawning mfers in your terminal
+# Aider is AI pair pwning mfers in your terminal
 
 Aider lets you pair program with LLMs,
 to edit code in your local git repository.
